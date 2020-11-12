@@ -5,6 +5,6 @@ print("hello from world from planet earth")
 print('Hello world form Git hub world')
 # these lines been added from the ground computer 
 print('Hello Git form Dhananjay PC')
-int a = 17
+int a = 19 
 int b = 10
 #this is end of conversations 
