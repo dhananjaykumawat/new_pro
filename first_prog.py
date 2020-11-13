@@ -11,4 +11,6 @@ int c = 51
 d = a+b+c
 print('The submission of the numbers is :' , d)
 #End of code df
+e = a*b*c
+print('the multiplication is :' , d)
 #this is end of conversations 
