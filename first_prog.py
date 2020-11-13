@@ -8,4 +8,6 @@ print('Hello Git form Dhananjay PC')
 int a = 21
 int b = 10
 int c = 51
+d = a*b*c
+print('the multiplication is :' , d)
 #this is end of conversations 
