@@ -8,4 +8,7 @@ print('Hello Git form Dhananjay PC')
 int a = 21
 int b = 10
 int c = 51
+d = a+b+c
+print('The submission of the numbers is :' , d)
+#End of code 
 #this is end of conversations 
